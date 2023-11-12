@@ -2,7 +2,10 @@ module github.com/abhinandpn/FirebaseTodo
 
 go 1.20
 
-require firebase.google.com/go v3.13.0+incompatible
+require (
+	firebase.google.com/go v3.13.0+incompatible
+	github.com/joho/godotenv v1.5.1
+)
 
 require (
 	cloud.google.com/go v0.110.7 // indirect
