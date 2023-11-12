@@ -114,3 +114,40 @@ func GetTodoById(client *firestore.Client) func(c *gin.Context) {
 
 	}
 }
+
+func UpdateTodo(client *firestore.Client) func(c *gin.Context) {
+
+	return func(c *gin.Context) {
+
+		id := c.Param("id")
+		var todo model.Todo
+		if err := c.BindJSON(&todo); err != nil {
+			c.AbortWithStatusJSON(http.StatusBadRequest, gin.H{"error": err.Error()})
+			return
+		}
+
+		todo.Id = id
+		todo.UpdatedAt = time.Now()
+		_, err := client.
+			Collection(model.TODO_COLLECTION).
+			Doc(todo.Id).Set(c, map[string]interface{}{
+			"title":       todo.Title,
+			"description": todo.Description,
+			"updatedAt":   todo.UpdatedAt,
+			"completed":   todo.UpdatedAt,
+		}, firestore.MergeAll)
+		if err != nil {
+			log.Printf("An error has occured : %s", err)
+			c.JSON(http.StatusInternalServerError, "")
+			return
+		}
+		c.JSON(http.StatusOK, todo)
+	}
+}
+
+func DeleteTodo(client *firestore.Client) func(c *gin.Context) {
+
+	return func(c *gin.Context) {
+
+	}
+}
