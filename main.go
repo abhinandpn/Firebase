@@ -19,6 +19,10 @@ func main() {
 
 	r := gin.Default()
 	r.GET("/api/health", handlers.HealthcheckHandler())
-	r.POST("/todo/new", todo.CreateTodoHandler(client))
+	r.POST("/todo/new", todo.CreateTodoHandler(client)) // create
+	r.GET("/todo/full", todo.ListTodos(client)) // get all
+	r.GET("/todo/:id", todo.GetTodoById(client)) // get all
+
+
 	r.Run(":8081")
 }
