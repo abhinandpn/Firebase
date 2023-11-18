@@ -88,3 +88,2428 @@ INFO: Detected HTTP/2 connection.
 [debug] [2023-11-12T11:55:52.543Z] Nov 12, 2023 5:25:52 PM com.google.cloud.datastore.emulator.firestore.websocket.WebSocketChannelHandler channelClosed
 INFO: Websocket client disconnected
  {"metadata":{"emulator":{"name":"firestore"},"message":"Nov 12, 2023 5:25:52 PM com.google.cloud.datastore.emulator.firestore.websocket.WebSocketChannelHandler channelClosed\nINFO: Websocket client disconnected\n"}}
+[debug] [2023-11-13T05:20:41.009Z] Received signal SIGHUP 1
+[info]  
+[info] i  emulators: Received SIGHUP for the first time. Starting a clean shutdown. 
+[info] i  emulators: Please wait for a clean shutdown or send the SIGHUP signal again to stop right now. 
+[debug] [2023-11-13T05:20:41.123Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.130Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.132Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.133Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.134Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.135Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.136Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.155Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.156Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.184Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.185Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.186Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.187Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.188Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.189Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.190Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.190Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.191Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.199Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.201Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.201Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.202Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.203Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.203Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.204Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.205Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.206Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.207Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.211Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.212Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.213Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.213Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.214Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.214Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.215Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.215Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.215Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.216Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.217Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.217Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.217Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.218Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.218Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.218Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.219Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.219Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.219Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.219Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.233Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.233Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.233Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.234Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.234Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.234Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.234Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.234Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.236Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.236Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.236Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.236Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.236Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[info] i  emulators: Shutting down emulators. {"metadata":{"emulator":{"name":"hub"},"message":"Shutting down emulators."}}
+[info] i  ui: Stopping Emulator UI {"metadata":{"emulator":{"name":"ui"},"message":"Stopping Emulator UI"}}
+[debug] [2023-11-13T05:20:41.262Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.265Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.266Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.267Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.267Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.267Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.268Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.269Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.269Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.270Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.270Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.271Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.271Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.272Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.272Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.273Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.273Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.273Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.275Z] /usr/local/bin/firebase[109296]: ../src/node.cc:762:void node::ResetStdio(): Assertion `!(err != 0) || (err == -1 && (*__errno_location ()) == 1)' failed.
+ 1: 0x99e1e0 node::Abort() [/usr/local/bin/firebase]
+ 2: 0x99e25c  [/usr/local/bin/firebase]
+ 3: 0x962939 node::ResetStdio() [/usr/local/bin/firebase]
+ 4: 0x9629f8 node::SignalExit(int, siginfo_t*, void*) [/usr/local/bin/firebase]
+ 5: 0x7f02a223c460  [/lib/x86_64-linux-gnu/libc.so.6]
+ 6: 0x7f02a231e4f6 epoll_wait [/lib/x86_64-linux-gnu/libc.so.6]
+ 7: 0xb21d93  [/usr/local/bin/firebase]
+ 8: 0x1044248  [/usr/local/bin/firebase]
+ 9: 0x8fa2e3 node::SpinEventLoop(node::Environment*) [/usr/local/bin/firebase]
+10: 0x9e1784 node::NodeMainInstance::Run(node::EnvSerializeInfo const*) [/usr/local/bin/firebase]
+11: 0x96a79d node::Start(int, char**) [/usr/local/bin/firebase]
+12: 0x7f02a2223a90  [/lib/x86_64-linux-gnu/libc.so.6]
+13: 0x7f02a2223b49 __libc_start_main [/lib/x86_64-linux-gnu/libc.so.6]
+14: 0x8ebe1c  [/usr/local/bin/firebase]
+ {"metadata":{"emulator":{"name":"ui"},"message":"/usr/local/bin/firebase[109296]: ../src/node.cc:762:void node::ResetStdio(): Assertion `!(err != 0) || (err == -1 && (*__errno_location ()) == 1)' failed.\n 1: 0x99e1e0 node::Abort() [/usr/local/bin/firebase]\n 2: 0x99e25c  [/usr/local/bin/firebase]\n 3: 0x962939 node::ResetStdio() [/usr/local/bin/firebase]\n 4: 0x9629f8 node::SignalExit(int, siginfo_t*, void*) [/usr/local/bin/firebase]\n 5: 0x7f02a223c460  [/lib/x86_64-linux-gnu/libc.so.6]\n 6: 0x7f02a231e4f6 epoll_wait [/lib/x86_64-linux-gnu/libc.so.6]\n 7: 0xb21d93  [/usr/local/bin/firebase]\n 8: 0x1044248  [/usr/local/bin/firebase]\n 9: 0x8fa2e3 node::SpinEventLoop(node::Environment*) [/usr/local/bin/firebase]\n10: 0x9e1784 node::NodeMainInstance::Run(node::EnvSerializeInfo const*) [/usr/local/bin/firebase]\n11: 0x96a79d node::Start(int, char**) [/usr/local/bin/firebase]\n12: 0x7f02a2223a90  [/lib/x86_64-linux-gnu/libc.so.6]\n13: 0x7f02a2223b49 __libc_start_main [/lib/x86_64-linux-gnu/libc.so.6]\n14: 0x8ebe1c  [/usr/local/bin/firebase]\n"}}
+[debug] [2023-11-13T05:20:41.279Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.285Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.285Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.286Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.286Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.287Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.287Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.287Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.287Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.287Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.288Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.288Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.288Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.288Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.288Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.288Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.290Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.294Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.295Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.295Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.295Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.295Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.296Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.296Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.296Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.296Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.296Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.297Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.298Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.298Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.298Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.298Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.298Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.299Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.299Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.300Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.304Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.305Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.305Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.306Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.306Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.307Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.307Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.307Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.308Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.308Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.308Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.309Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.309Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.310Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.310Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.310Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.311Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.311Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.312Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.313Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.314Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.314Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.314Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.315Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.315Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.315Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.318Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.318Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.319Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.319Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.320Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.322Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.322Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.323Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.323Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.324Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.324Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.325Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.330Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.330Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.330Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.331Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.331Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.331Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.332Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.332Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.332Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.333Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.333Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.333Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.336Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.337Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.337Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.337Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.337Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.338Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.338Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.341Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.341Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.347Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.347Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.348Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.348Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.349Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.349Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.349Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.350Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.350Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.351Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-11-13T05:20:41.351Z] Error: write EIO
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at WriteStream.Socket._writeGeneric (node:net:817:11)
+    at WriteStream.Socket._write (node:net:829:8)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at WriteStream.Writable.write (node:internal/streams/writable:334:10)
+    at Console.log (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/abhinandpn/.cache/firebase/tools/lib/node_modules/readable-stream/lib/_stream_writable.js:390:139)
